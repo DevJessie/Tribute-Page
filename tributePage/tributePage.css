@@ -1,0 +1,72 @@
+#title {
+  font-family: Georgia,serif;
+  text-align: center;
+  color: #838e85;
+  background-color:#ffffff;
+}
+
+p {
+  text-align: center;
+  font-family: Georgia,serif;
+  color: rgba(190,192,191,255);
+  padding-top: 0px;
+
+}
+
+#img-div {
+  display: inline-block;
+}
+
+#image {
+  border-radius: 30px;
+  background-color: azure;
+  object-fit:cover;
+  object-position: center;
+  margin-left: 505px;
+  height: 470px;
+  width: 900px; 
+}
+
+#img-caption {
+  display:inline-block;
+  margin-left: 540px;
+  padding-top: 5px;
+} 
+
+h2 {
+  font-family: Georgia,serif;
+  text-align: center;
+}
+
+ul {
+  display: table;
+  font-family: Georgia,serif;
+  /* text-align: center; */
+  margin: 30px 600px auto;
+}
+
+#instagram {
+  background-color: azure;
+  margin-left: 870px;
+  height: 50px;
+  width: 50px; 
+}
+
+#twitter {
+   background-color: azure;
+   margin-left: 10px;
+   height: 50px;
+   width: 50px; 
+ }
+
+ #facebook {
+   background-color: azure;
+   margin-left: 10px;
+   height: 50px;
+   width: 50px; 
+ }
+
+ #qoute {
+  font-family: Georgia,serif;
+  text-align: center;
+}
